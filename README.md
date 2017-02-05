@@ -1,2 +1,2 @@
-$ echo "# Data-Incubator-challenge" 
+# Data-Incubator-challenge
 
