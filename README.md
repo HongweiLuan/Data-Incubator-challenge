@@ -1,2 +1,0 @@
-# Data-Incubator-challenge
-
